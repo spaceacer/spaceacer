@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Om Nunase @spaceacer
 - 👀 I’m an Aerospace engineer
-- 🌱 I’m currently learning Aerospace engineering
+- 🌱 I’m currently learning Aerospace engineering at IITB
 - 😄 Pronouns: He/Him
 
 <!---
